@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8">
+    <meta name= "viewport" content="width=device-width, intial-scale=1.0">
+    <title> CheatSheet.html</title>
+    </head>
+    <body>
+    <p>SampleQuestionAnswers</p>
+    <p>1 To customizing the sites. One most essentials is, that you can contact with your friends.</p>
+    <p>2 They are addressed with HTML or CSS or JavaScript</p>
+    <p>3 Every HTTP URL conforms to the syntax of a generic URI. A generic URI is of the form: scheme:[//[user[:password]@]host[:port]][/path][?query][#fragment]</p>
+    <p>4 A web server is a computer system that processes requests via HTTP, the basic network protocol used to distribute information on the World Wide Web.</p>
+    <p>5 The primary function of a web server is to store, process and deliver web pages to clients.</p>
+    <p>6 </p>
+    <p>7 </p>
+    <p>8 A web browser is a software application for retrieving, presenting and traversing information resources on the World Wide Web.</p>
+    <p>9 It means you can click on words to display a text. You also can click forward and backward</p>
+    <p>10 Yes it is the same
+    <p>11 The head element is a container for all the head elements.</p> 
+    <p>12 The DOCTYPE declaration is not an HTML tag; it is an instruction to the web browser about what version of HTML the page is written in.</p>
+    <p>13 The meta and the title</p>
+    <p>14 You can highlight it with the strong tag. It is output at the left margin</p>
+    <p>15 It's the same at number 14</p>
+    </body>
+</html>
